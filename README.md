@@ -1,4 +1,4 @@
-# OptProject
+# Optimal operation of a hybrid vehicle 
 
 Авторы:
 
